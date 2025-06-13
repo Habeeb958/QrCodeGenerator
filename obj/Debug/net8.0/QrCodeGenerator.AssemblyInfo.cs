@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("acd81a83-4240-40de-b92e-06de9ccb8466")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("QrCodeGenerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ee87cbeae20b5804fe2f9d7627aa97ba54b57bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("QrCodeGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QrCodeGenerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
