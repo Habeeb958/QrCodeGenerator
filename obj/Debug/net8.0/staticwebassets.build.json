@@ -1,0 +1,1670 @@
+{
+  "Version": 1,
+  "Hash": "QTv2pVr1Sz0OtNWHM+tcuxqXq4zD0as64tFEGdEEBgE=",
+  "Source": "QrCodeGenerator",
+  "BasePath": "_content/QrCodeGenerator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "QrCodeGenerator\\wwwroot",
+      "Source": "QrCodeGenerator",
+      "ContentRoot": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\",
+      "BasePath": "_content/QrCodeGenerator",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\AVATAR.jpeg",
+      "SourceId": "QrCodeGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\",
+      "BasePath": "_content/QrCodeGenerator",
+      "RelativePath": "images/AVATAR#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tlf3af7aoc",
+      "Integrity": "P7i9Ke1YMHu1fVLPiShfLpaPHxrcRcuc3qMiHTzLU10=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\AVATAR.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\FOREST_GUMP.jpeg",
+      "SourceId": "QrCodeGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\",
+      "BasePath": "_content/QrCodeGenerator",
+      "RelativePath": "images/FOREST_GUMP#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cpdyw9exmf",
+      "Integrity": "4H1nQhAaSTp9/MigLUdYf9CeKZyUcDXdDdaYFHAcjH0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\FOREST_GUMP.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\GLADIATOR.jpeg",
+      "SourceId": "QrCodeGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\",
+      "BasePath": "_content/QrCodeGenerator",
+      "RelativePath": "images/GLADIATOR#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vkg6hup5fv",
+      "Integrity": "b1JingkhFaEDBuabPzjDxoUAXZR1YZuQyndZLx7uSsY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\GLADIATOR.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\INCEPTION.jpeg",
+      "SourceId": "QrCodeGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\",
+      "BasePath": "_content/QrCodeGenerator",
+      "RelativePath": "images/INCEPTION#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9yf5a06nyq",
+      "Integrity": "/7VPARw4zEGY6bsLL5y9EJugWp832+4A4s+qJP8in7A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\INCEPTION.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\INTERSTELLAR.jpeg",
+      "SourceId": "QrCodeGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\",
+      "BasePath": "_content/QrCodeGenerator",
+      "RelativePath": "images/INTERSTELLAR#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3yzs58nk7n",
+      "Integrity": "+1nUUD+Xu6QAc0ZOLojcPyECZRwnM83d9QbjPLysA4I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\INTERSTELLAR.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\PULP_FICTION.jpeg",
+      "SourceId": "QrCodeGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\",
+      "BasePath": "_content/QrCodeGenerator",
+      "RelativePath": "images/PULP_FICTION#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8v3091voxz",
+      "Integrity": "bK/IX90ISUCcj3zIJzQuwrbkl2OxiAOVKPg+X7bw5Ik=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\PULP_FICTION.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\THE_DARK_KNIGHT.jpeg",
+      "SourceId": "QrCodeGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\",
+      "BasePath": "_content/QrCodeGenerator",
+      "RelativePath": "images/THE_DARK_KNIGHT#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sx3fr1khhe",
+      "Integrity": "sODBqUj+l30as/UCgiNVz5O4ncZXWnzBWwsHcFsz2L4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\THE_DARK_KNIGHT.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\THE_MATRIX.jpeg",
+      "SourceId": "QrCodeGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\",
+      "BasePath": "_content/QrCodeGenerator",
+      "RelativePath": "images/THE_MATRIX#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jnfs55rsh1",
+      "Integrity": "P0dEQR5bl0IRUy+JOY8yYub3pclGKS2T5Ojg5g0aTcY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\THE_MATRIX.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\THE_SHAWSHANK_REDEMPTION.jpeg",
+      "SourceId": "QrCodeGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\",
+      "BasePath": "_content/QrCodeGenerator",
+      "RelativePath": "images/THE_SHAWSHANK_REDEMPTION#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lbj3wq15x6",
+      "Integrity": "b2MFrQSr5qmVIOKygfJokf3Hwi6xO08BghabGQe2INY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\THE_SHAWSHANK_REDEMPTION.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\TITANIC.jpeg",
+      "SourceId": "QrCodeGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\",
+      "BasePath": "_content/QrCodeGenerator",
+      "RelativePath": "images/TITANIC#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "471ox6pfq6",
+      "Integrity": "8PqQLJlH2ue5kKZ0LzpF9ReOLsym3W3CO2VBsTwD+nU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\TITANIC.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\index.html",
+      "SourceId": "QrCodeGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\",
+      "BasePath": "_content/QrCodeGenerator",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zv9or6oa5g",
+      "Integrity": "DxtChq0ZQz4YKfN9F13qJ2fEOIcp6IE/vL1igkp9NlQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\movies.css",
+      "SourceId": "QrCodeGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\",
+      "BasePath": "_content/QrCodeGenerator",
+      "RelativePath": "movies#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x2nqieih31",
+      "Integrity": "WaHdmnmnT3JV/TLgjDd/1+Qk1g0EZn081dVAYmDrZ/c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\movies.css"
+    },
+    {
+      "Identity": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\movies.html",
+      "SourceId": "QrCodeGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\",
+      "BasePath": "_content/QrCodeGenerator",
+      "RelativePath": "movies#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9w5md9yttg",
+      "Integrity": "p+foEcGzILDiS0ES5EH4tRf+wZOFpZfdHT9lYRI5aDo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\movies.html"
+    },
+    {
+      "Identity": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\movies.js",
+      "SourceId": "QrCodeGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\",
+      "BasePath": "_content/QrCodeGenerator",
+      "RelativePath": "movies#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "aeh03vdpj7",
+      "Integrity": "7tgBkxp46/3GQMTLSwdkP6NaJ0vLBijME3qsyMLw90Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\movies.js"
+    },
+    {
+      "Identity": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\script.js",
+      "SourceId": "QrCodeGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\",
+      "BasePath": "_content/QrCodeGenerator",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3rc735g9om",
+      "Integrity": "T5N4y1Q3REYCs8zZ5PollOmHjfwny83F3U69KCKlwwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\style.css",
+      "SourceId": "QrCodeGenerator",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\",
+      "BasePath": "_content/QrCodeGenerator",
+      "RelativePath": "style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qw6kuzr3rk",
+      "Integrity": "+hlAJ0QKsqd6PAEH8GXbo/0jAlBEX7RIQDyxO55umgo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/AVATAR.jpeg",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\AVATAR.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P7i9Ke1YMHu1fVLPiShfLpaPHxrcRcuc3qMiHTzLU10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 15:19:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P7i9Ke1YMHu1fVLPiShfLpaPHxrcRcuc3qMiHTzLU10="
+        }
+      ]
+    },
+    {
+      "Route": "images/AVATAR.tlf3af7aoc.jpeg",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\AVATAR.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P7i9Ke1YMHu1fVLPiShfLpaPHxrcRcuc3qMiHTzLU10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 15:19:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tlf3af7aoc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/AVATAR.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P7i9Ke1YMHu1fVLPiShfLpaPHxrcRcuc3qMiHTzLU10="
+        }
+      ]
+    },
+    {
+      "Route": "images/FOREST_GUMP.cpdyw9exmf.jpeg",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\FOREST_GUMP.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7386"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4H1nQhAaSTp9/MigLUdYf9CeKZyUcDXdDdaYFHAcjH0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 15:22:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cpdyw9exmf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/FOREST_GUMP.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4H1nQhAaSTp9/MigLUdYf9CeKZyUcDXdDdaYFHAcjH0="
+        }
+      ]
+    },
+    {
+      "Route": "images/FOREST_GUMP.jpeg",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\FOREST_GUMP.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7386"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4H1nQhAaSTp9/MigLUdYf9CeKZyUcDXdDdaYFHAcjH0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 15:22:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4H1nQhAaSTp9/MigLUdYf9CeKZyUcDXdDdaYFHAcjH0="
+        }
+      ]
+    },
+    {
+      "Route": "images/GLADIATOR.jpeg",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\GLADIATOR.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8389"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b1JingkhFaEDBuabPzjDxoUAXZR1YZuQyndZLx7uSsY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 15:20:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-b1JingkhFaEDBuabPzjDxoUAXZR1YZuQyndZLx7uSsY="
+        }
+      ]
+    },
+    {
+      "Route": "images/GLADIATOR.vkg6hup5fv.jpeg",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\GLADIATOR.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8389"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b1JingkhFaEDBuabPzjDxoUAXZR1YZuQyndZLx7uSsY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 15:20:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vkg6hup5fv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/GLADIATOR.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-b1JingkhFaEDBuabPzjDxoUAXZR1YZuQyndZLx7uSsY="
+        }
+      ]
+    },
+    {
+      "Route": "images/INCEPTION.9yf5a06nyq.jpeg",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\INCEPTION.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6299"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/7VPARw4zEGY6bsLL5y9EJugWp832+4A4s+qJP8in7A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 15:29:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9yf5a06nyq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/INCEPTION.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/7VPARw4zEGY6bsLL5y9EJugWp832+4A4s+qJP8in7A="
+        }
+      ]
+    },
+    {
+      "Route": "images/INCEPTION.jpeg",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\INCEPTION.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6299"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/7VPARw4zEGY6bsLL5y9EJugWp832+4A4s+qJP8in7A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 15:29:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/7VPARw4zEGY6bsLL5y9EJugWp832+4A4s+qJP8in7A="
+        }
+      ]
+    },
+    {
+      "Route": "images/INTERSTELLAR.3yzs58nk7n.jpeg",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\INTERSTELLAR.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11618"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+1nUUD+Xu6QAc0ZOLojcPyECZRwnM83d9QbjPLysA4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 15:18:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3yzs58nk7n"
+        },
+        {
+          "Name": "label",
+          "Value": "images/INTERSTELLAR.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+1nUUD+Xu6QAc0ZOLojcPyECZRwnM83d9QbjPLysA4I="
+        }
+      ]
+    },
+    {
+      "Route": "images/INTERSTELLAR.jpeg",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\INTERSTELLAR.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11618"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+1nUUD+Xu6QAc0ZOLojcPyECZRwnM83d9QbjPLysA4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 15:18:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+1nUUD+Xu6QAc0ZOLojcPyECZRwnM83d9QbjPLysA4I="
+        }
+      ]
+    },
+    {
+      "Route": "images/PULP_FICTION.8v3091voxz.jpeg",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\PULP_FICTION.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22400"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bK/IX90ISUCcj3zIJzQuwrbkl2OxiAOVKPg+X7bw5Ik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 15:22:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8v3091voxz"
+        },
+        {
+          "Name": "label",
+          "Value": "images/PULP_FICTION.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bK/IX90ISUCcj3zIJzQuwrbkl2OxiAOVKPg+X7bw5Ik="
+        }
+      ]
+    },
+    {
+      "Route": "images/PULP_FICTION.jpeg",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\PULP_FICTION.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22400"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bK/IX90ISUCcj3zIJzQuwrbkl2OxiAOVKPg+X7bw5Ik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 15:22:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bK/IX90ISUCcj3zIJzQuwrbkl2OxiAOVKPg+X7bw5Ik="
+        }
+      ]
+    },
+    {
+      "Route": "images/THE_DARK_KNIGHT.jpeg",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\THE_DARK_KNIGHT.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8624"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sODBqUj+l30as/UCgiNVz5O4ncZXWnzBWwsHcFsz2L4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 15:21:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sODBqUj+l30as/UCgiNVz5O4ncZXWnzBWwsHcFsz2L4="
+        }
+      ]
+    },
+    {
+      "Route": "images/THE_DARK_KNIGHT.sx3fr1khhe.jpeg",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\THE_DARK_KNIGHT.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8624"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sODBqUj+l30as/UCgiNVz5O4ncZXWnzBWwsHcFsz2L4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 15:21:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sx3fr1khhe"
+        },
+        {
+          "Name": "label",
+          "Value": "images/THE_DARK_KNIGHT.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sODBqUj+l30as/UCgiNVz5O4ncZXWnzBWwsHcFsz2L4="
+        }
+      ]
+    },
+    {
+      "Route": "images/THE_MATRIX.jnfs55rsh1.jpeg",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\THE_MATRIX.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P0dEQR5bl0IRUy+JOY8yYub3pclGKS2T5Ojg5g0aTcY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 15:17:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jnfs55rsh1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/THE_MATRIX.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P0dEQR5bl0IRUy+JOY8yYub3pclGKS2T5Ojg5g0aTcY="
+        }
+      ]
+    },
+    {
+      "Route": "images/THE_MATRIX.jpeg",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\THE_MATRIX.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P0dEQR5bl0IRUy+JOY8yYub3pclGKS2T5Ojg5g0aTcY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 15:17:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P0dEQR5bl0IRUy+JOY8yYub3pclGKS2T5Ojg5g0aTcY="
+        }
+      ]
+    },
+    {
+      "Route": "images/THE_SHAWSHANK_REDEMPTION.jpeg",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\THE_SHAWSHANK_REDEMPTION.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10195"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b2MFrQSr5qmVIOKygfJokf3Hwi6xO08BghabGQe2INY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 15:24:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-b2MFrQSr5qmVIOKygfJokf3Hwi6xO08BghabGQe2INY="
+        }
+      ]
+    },
+    {
+      "Route": "images/THE_SHAWSHANK_REDEMPTION.lbj3wq15x6.jpeg",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\THE_SHAWSHANK_REDEMPTION.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10195"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b2MFrQSr5qmVIOKygfJokf3Hwi6xO08BghabGQe2INY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 15:24:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lbj3wq15x6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/THE_SHAWSHANK_REDEMPTION.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-b2MFrQSr5qmVIOKygfJokf3Hwi6xO08BghabGQe2INY="
+        }
+      ]
+    },
+    {
+      "Route": "images/TITANIC.471ox6pfq6.jpeg",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\TITANIC.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10883"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8PqQLJlH2ue5kKZ0LzpF9ReOLsym3W3CO2VBsTwD+nU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 15:20:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "471ox6pfq6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/TITANIC.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8PqQLJlH2ue5kKZ0LzpF9ReOLsym3W3CO2VBsTwD+nU="
+        }
+      ]
+    },
+    {
+      "Route": "images/TITANIC.jpeg",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\TITANIC.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10883"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8PqQLJlH2ue5kKZ0LzpF9ReOLsym3W3CO2VBsTwD+nU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 15:20:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8PqQLJlH2ue5kKZ0LzpF9ReOLsym3W3CO2VBsTwD+nU="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "584"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DxtChq0ZQz4YKfN9F13qJ2fEOIcp6IE/vL1igkp9NlQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 06:03:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DxtChq0ZQz4YKfN9F13qJ2fEOIcp6IE/vL1igkp9NlQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.zv9or6oa5g.html",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "584"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DxtChq0ZQz4YKfN9F13qJ2fEOIcp6IE/vL1igkp9NlQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 06:03:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zv9or6oa5g"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DxtChq0ZQz4YKfN9F13qJ2fEOIcp6IE/vL1igkp9NlQ="
+        }
+      ]
+    },
+    {
+      "Route": "movies.9w5md9yttg.html",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\movies.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "611"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p+foEcGzILDiS0ES5EH4tRf+wZOFpZfdHT9lYRI5aDo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 06:25:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9w5md9yttg"
+        },
+        {
+          "Name": "label",
+          "Value": "movies.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p+foEcGzILDiS0ES5EH4tRf+wZOFpZfdHT9lYRI5aDo="
+        }
+      ]
+    },
+    {
+      "Route": "movies.aeh03vdpj7.js",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\movies.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1067"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7tgBkxp46/3GQMTLSwdkP6NaJ0vLBijME3qsyMLw90Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 06:34:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aeh03vdpj7"
+        },
+        {
+          "Name": "label",
+          "Value": "movies.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7tgBkxp46/3GQMTLSwdkP6NaJ0vLBijME3qsyMLw90Y="
+        }
+      ]
+    },
+    {
+      "Route": "movies.css",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\movies.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1717"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WaHdmnmnT3JV/TLgjDd/1+Qk1g0EZn081dVAYmDrZ/c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 06:34:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WaHdmnmnT3JV/TLgjDd/1+Qk1g0EZn081dVAYmDrZ/c="
+        }
+      ]
+    },
+    {
+      "Route": "movies.html",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\movies.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "611"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p+foEcGzILDiS0ES5EH4tRf+wZOFpZfdHT9lYRI5aDo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 06:25:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p+foEcGzILDiS0ES5EH4tRf+wZOFpZfdHT9lYRI5aDo="
+        }
+      ]
+    },
+    {
+      "Route": "movies.js",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\movies.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1067"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7tgBkxp46/3GQMTLSwdkP6NaJ0vLBijME3qsyMLw90Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 06:34:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7tgBkxp46/3GQMTLSwdkP6NaJ0vLBijME3qsyMLw90Y="
+        }
+      ]
+    },
+    {
+      "Route": "movies.x2nqieih31.css",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\movies.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1717"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WaHdmnmnT3JV/TLgjDd/1+Qk1g0EZn081dVAYmDrZ/c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 06:34:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x2nqieih31"
+        },
+        {
+          "Name": "label",
+          "Value": "movies.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WaHdmnmnT3JV/TLgjDd/1+Qk1g0EZn081dVAYmDrZ/c="
+        }
+      ]
+    },
+    {
+      "Route": "script.3rc735g9om.js",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "245"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T5N4y1Q3REYCs8zZ5PollOmHjfwny83F3U69KCKlwwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 06:34:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3rc735g9om"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T5N4y1Q3REYCs8zZ5PollOmHjfwny83F3U69KCKlwwg="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "245"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T5N4y1Q3REYCs8zZ5PollOmHjfwny83F3U69KCKlwwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 06:34:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T5N4y1Q3REYCs8zZ5PollOmHjfwny83F3U69KCKlwwg="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+hlAJ0QKsqd6PAEH8GXbo/0jAlBEX7RIQDyxO55umgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 06:34:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+hlAJ0QKsqd6PAEH8GXbo/0jAlBEX7RIQDyxO55umgo="
+        }
+      ]
+    },
+    {
+      "Route": "style.qw6kuzr3rk.css",
+      "AssetFile": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+hlAJ0QKsqd6PAEH8GXbo/0jAlBEX7RIQDyxO55umgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 06:34:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qw6kuzr3rk"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+hlAJ0QKsqd6PAEH8GXbo/0jAlBEX7RIQDyxO55umgo="
+        }
+      ]
+    }
+  ]
+}

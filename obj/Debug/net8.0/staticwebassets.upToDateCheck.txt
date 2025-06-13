@@ -1,0 +1,16 @@
+wwwroot\images\AVATAR.jpeg
+wwwroot\images\FOREST_GUMP.jpeg
+wwwroot\images\GLADIATOR.jpeg
+wwwroot\images\INCEPTION.jpeg
+wwwroot\images\INTERSTELLAR.jpeg
+wwwroot\images\PULP_FICTION.jpeg
+wwwroot\images\THE_DARK_KNIGHT.jpeg
+wwwroot\images\THE_MATRIX.jpeg
+wwwroot\images\THE_SHAWSHANK_REDEMPTION.jpeg
+wwwroot\images\TITANIC.jpeg
+wwwroot\index.html
+wwwroot\movies.css
+wwwroot\movies.html
+wwwroot\movies.js
+wwwroot\script.js
+wwwroot\style.css

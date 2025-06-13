@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "MoviesController",
+    "Method": "GetRandomMovies",
+    "RelativePath": "api/movies/random",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QrCodeController",
+    "Method": "GetQrCode",
+    "RelativePath": "api/qrcode",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

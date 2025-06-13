@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\AVATAR.jpeg",
+      "PackagePath": "staticwebassets\\images\\AVATAR.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\FOREST_GUMP.jpeg",
+      "PackagePath": "staticwebassets\\images\\FOREST_GUMP.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\GLADIATOR.jpeg",
+      "PackagePath": "staticwebassets\\images\\GLADIATOR.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\INCEPTION.jpeg",
+      "PackagePath": "staticwebassets\\images\\INCEPTION.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\INTERSTELLAR.jpeg",
+      "PackagePath": "staticwebassets\\images\\INTERSTELLAR.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\PULP_FICTION.jpeg",
+      "PackagePath": "staticwebassets\\images\\PULP_FICTION.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\THE_DARK_KNIGHT.jpeg",
+      "PackagePath": "staticwebassets\\images\\THE_DARK_KNIGHT.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\THE_MATRIX.jpeg",
+      "PackagePath": "staticwebassets\\images\\THE_MATRIX.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\THE_SHAWSHANK_REDEMPTION.jpeg",
+      "PackagePath": "staticwebassets\\images\\THE_SHAWSHANK_REDEMPTION.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\images\\TITANIC.jpeg",
+      "PackagePath": "staticwebassets\\images\\TITANIC.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\movies.css",
+      "PackagePath": "staticwebassets\\movies.css"
+    },
+    {
+      "Id": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\movies.html",
+      "PackagePath": "staticwebassets\\movies.html"
+    },
+    {
+      "Id": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\movies.js",
+      "PackagePath": "staticwebassets\\movies.js"
+    },
+    {
+      "Id": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\akore\\OneDrive\\Documents\\QrCodeGenerator\\QrCodeGenerator\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.QrCodeGenerator.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.QrCodeGenerator.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.QrCodeGenerator.props",
+      "PackagePath": "build\\QrCodeGenerator.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.QrCodeGenerator.props",
+      "PackagePath": "buildMultiTargeting\\QrCodeGenerator.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.QrCodeGenerator.props",
+      "PackagePath": "buildTransitive\\QrCodeGenerator.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
